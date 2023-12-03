@@ -1,0 +1,5 @@
+SHOW TABLES;
+
+DROP TABLES telefone, reserva;
+
+SHOW TABLES;
